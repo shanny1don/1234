@@ -1,0 +1,25 @@
+<!DOCTYPE. html/> 
+<html> 
+<head> 
+<background="color#FFA510">
+<Title> My first webpage </title> 
+<body> 
+<P1>
+<style> P { color: #FFAF0A;FUCK YOU } </style>
+<Center><font color="Pink" size="100" face="time New roman"> <b> <I> <U>Fuck you </U> </i> </B></center>
+<HR>
+</body>
+<Center><P1></P1></center> 
+<Body><bgcolor=:"Red">
+
+<center> <img src="Finger.jpg" alt="This is the IMAGE"width="500" heigh="500">. </center>
+
+
+
+
+
+
+
+
+</Body> 
+</html> 
